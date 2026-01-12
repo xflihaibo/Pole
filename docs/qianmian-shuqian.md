@@ -26,61 +26,62 @@
 
 ### 主界面
 
-![千面书签主界面](img/mark/img_v3_02su_7d1b8106-92fc-43b2-a98f-d9e5db84fd7g.jpg)
+<img src="img/mark/img_v3_02su_7d1b8106-92fc-43b2-a98f-d9e5db84fd7g.jpg" alt="千面书签主界面" style="width: 1080px;">
 
 清晰直观的主界面设计，让您快速访问常用书签和功能。
 
 ### 链接管理
 
-![链接管理](img/mark/img_link.jpg)
+<img src="img/mark/img_link.jpg" alt="链接管理" style="width: 1080px;">
 
 高效的链接管理功能，支持快速添加、编辑和组织您的书签。
 
 ### 分组功能
 
-![分组管理](img/mark/img_group.jpg)
+<img src="img/mark/img_group.jpg" alt="分组管理" style="width: 1080px;">
 
 灵活的分组功能，帮助您按照项目、类别或其他方式组织书签。
 
 ### 企业工作台
 
-![企业工作台](img/mark/img_business.jpg)
+<img src="img/mark/img_business.jpg" alt="企业工作台" style="width: 1080px;">
 
 专为企业团队设计的工作台，支持团队协作和权限管理。
 
 ### 主题设置
 
-![主题设置](img/mark/img_theme.jpg)
+<img src="img/mark/img_theme.jpg" alt="主题设置" style="width: 1080px;">
 
 丰富的主题选择，让您的工作空间更加个性化。
 
 ### 筛选功能
 
-![筛选功能](img/mark/img_filter.jpg)
+<img src="img/mark/img_filter.jpg" alt="筛选功能" style="width: 1080px;">
 
 强大的筛选功能，快速找到您需要的书签。
 
 ### 任务管理
 
-![任务管理](img/mark/img_task.jpg)
+<img src="img/mark/img_task.jpg" alt="任务管理" style="width: 1080px;">
 
 集成任务管理功能，将书签和任务完美结合。
 
 ### 日历视图
 
-![日历视图](img/mark/img_rili.jpg)
+<img src="img/mark/img_rili.jpg" alt="日历视图" style="width: 1080px;">
 
 直观的日历视图，按时间维度查看和管理书签。
 
 ### 设置中心
 
-![设置中心](img/mark/img_setting.jpg)
+<img src="img/mark/img_setting.jpg" alt="设置中心" style="width: 1080px;">
 
 完善的设置中心，自定义您的使用体验。
 
 ## 🔗 相关链接
 
 - 🌐 **Chrome Web Store**: [立即安装](https://chromewebstore.google.com/detail/oobaohgninodbcfbnmnndjekiegphabe?utm_source=item-share-cb)
+- 🌐 **GitHub releases**: [立即安装](https://github.com/xflihaibo/bookmark/releases)
 - 💻 **GitHub**: [查看源码](https://github.com/xflihaibo/bookmark)
 - 📚 **使用文档**: [查看使用指南](qianmian-shuqian-guide.md)
 - 🔒 **隐私政策**: [查看隐私政策](qianmian-shuqian-privacy.md)

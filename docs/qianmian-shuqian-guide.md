@@ -2,7 +2,7 @@
 
 > 智能个人导航与企业链接工作台使用指南
 
-![首页概览](img/mark/img_business.jpg)
+<img src="img/mark/img_business.jpg" alt="首页概览" style="width: 1080px;">
 
 本文档介绍如何下载与启用扩展、在页面中使用书签过滤（按分类与单条链接）、以及可配置项与本地缓存说明。
 
@@ -23,7 +23,7 @@
 - **新标签页**：安装后默认替换浏览器新标签页（若未生效，请到 `chrome://extensions` 确认已启用）
 - **主题与背景**：右上角设置图标进入"设置面板"，可切换明亮/暗黑、上传或重置背景
 
-  ![主题与背景设置](img/mark/img_theme.jpg)
+  <img src="img/mark/img_theme.jpg" alt="主题与背景设置" style="width: 1080px;">
 
 - **侧边栏模式**：
   - **常驻（always）**：侧边栏一直显示
@@ -37,14 +37,14 @@
 
 1. 在左侧侧边栏，对任意"菜单项"右键，点击"书签显示管理"
 
-   ![侧边栏右键菜单](img/mark/img_group.jpg)
+   <img src="img/mark/img_group.jpg" alt="侧边栏右键菜单" style="width: 1080px;">
 
 2. 在弹窗中：
    - 勾选 = 显示该分类；取消勾选 = 隐藏该分类
    - 对父级分类操作会联动全部子分类
    - "全部显示 / 全部隐藏"可一键操作当前标签页下所有分类
 
-   ![书签显示管理](img/mark/img_filter.jpg)
+   <img src="img/mark/img_filter.jpg" alt="书签显示管理" style="width: 1080px;">
 
 3. 点击"保存设置"，页面将即时生效（无需刷新）
 
@@ -70,7 +70,7 @@
 - 首页中部显示"快捷链接"网格：
   - 点击"+"添加；右键单条链接可"修改/删除"
 
-    ![快捷链接管理](img/mark/img_link.jpg)
+    <img src="img/mark/img_link.jpg" alt="快捷链接管理" style="width: 1080px;">
 
   - 在设置面板可整体切换"显示/隐藏快捷链接"
 - **链接打开逻辑**：
@@ -90,7 +90,7 @@
    - 在输入框中填入你的 CDN 地址（一个可公开访问的 JSON 文件 URL）
    - 点击"同步"。成功后，侧边栏会出现"公文包"图标
 
-    ![企业链接同步](img/mark/img_setting.jpg)
+    <img src="img/mark/img_setting.jpg" alt="企业链接同步" style="width: 1080px;">
 
 2. **访问与管理**：
    - 点击侧边栏的"公文包"图标，即可查看所有企业链接
@@ -202,6 +202,7 @@ CDN 地址必须是一个返回有效 JSON 数据的 URL。扩展支持以下几
 ## 🔗 相关链接
 
 - 🌐 **Chrome Web Store**: [立即安装](https://chromewebstore.google.com/detail/oobaohgninodbcfbnmnndjekiegphabe?utm_source=item-share-cb)
+- 🌐 **GitHub releases**: [立即安装](https://github.com/xflihaibo/bookmark/releases)
 - 💻 **GitHub**: [查看源码](https://github.com/xflihaibo/bookmark)
 - 📖 **在线文档**: [完整文档](https://xflihaibo.github.io/bookmark/#/)
 
